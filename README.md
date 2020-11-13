@@ -3,7 +3,7 @@
 ### Overview
 
 Our first module in DSI covers:
-- Basic statistics (distributions, confidence intervals, hypothesis testing)
+- Basic statistics and probability
 - Many Python programming concepts
 - Programmatically interacting with files and directories
 - Visualizations
