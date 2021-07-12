@@ -101,7 +101,7 @@ Here's a link on [how to give a good lightning talk](https://www.semrush.com/blo
 
 ### Submission
 
-**Materials must be submitted on September 25.**
+**Materials must be submitted by July 26 at 9 am Eastern Time.**
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
@@ -111,7 +111,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Check with your local instructor for how they would like you to submit your repo for review.**
+**Please submit this project the same way as your Labs, Quizzes, and Blog Posts - through Google Classroom before the deadline..**
 
 ---
 
@@ -144,61 +144,61 @@ Your local instructor will evaluate your project (for the most part) using the f
 | **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
 
 **Project Organization**
-- Are modules imported correctly (using appropriate aliases)?
-- Are data imported/saved using relative paths?
-- Does the README provide a good executive summary of the project?
-- Is markdown formatting used appropriately to structure notebooks?
-- Are there an appropriate amount of comments to support the code?
-- Are files & directories organized correctly?
-- Are there unnecessary files included?
-- Do files and directories have well-structured, appropriate, consistent names?
+- 🔴 Are modules imported correctly (using appropriate aliases)?
+- 🔴 Are data imported/saved using relative paths?
+- 🔴 Does the README provide a good executive summary of the project?
+- 🔴 Is markdown formatting used appropriately to structure notebooks?
+- 🔴 Are there an appropriate amount of comments to support the code?
+- 🔴 Are files & directories organized correctly?
+- 🔴 Are there unnecessary files included?
+- 🔴 Do files and directories have well-structured, appropriate, consistent names?
 
 **Clarity of Message**
-- Is the problem statement clearly presented?
-- Does a strong narrative run through the project?
-- Does the student provide appropriate context to connect individual steps back to the overall project?
-- Is it clear how the final recommendations were reached?
-- Are the conclusions/recommendations clearly stated?
+- 🔴 Is the problem statement clearly presented?
+- 🔴 Does a strong narrative run through the project?
+- 🔴 Does the student provide appropriate context to connect individual steps back to the overall project?
+- 🔴 Is it clear how the final recommendations were reached?
+- 🔴 Are the conclusions/recommendations clearly stated?
 
 **Python Syntax and Control Flow**
-- Is care taken to write human readable code?
-- Is the code syntactically correct (no runtime errors)?
-- Does the code generate desired results (logically correct)?
-- Does the code follows general best practices and style guidelines?
-- Are Pandas functions used appropriately?
-- Does the student demonstrate mastery masking in Pandas?
-- Does the student demonstrate mastery sorting in Pandas?
+- 🔴 Is care taken to write human readable code?
+- 🔴 Is the code syntactically correct (no runtime errors)?
+- 🔴 Does the code generate desired results (logically correct)?
+- 🔴 Does the code follow general best practices and style guidelines?
+- 🔴 Are Pandas functions used appropriately?
+- 🔴 Does the student demonstrate mastery masking in Pandas?
+- 🔴 Does the student demonstrate mastery sorting in Pandas?
 
 **Data Cleaning and EDA**
-- Does the student fix data entry issues?
-- Are data appropriately labeled?
-- Are data appropriately typed?
-- Are datasets combined correctly?
-- Are appropriate summary statistics provided?
-- Are steps taken during data cleaning and EDA framed appropriately?
+- 🔴 Does the student fix data entry issues?
+- 🔴 Are data appropriately labeled?
+- 🔴 Are data appropriately typed?
+- 🔴 Are datasets combined correctly?
+- 🔴 Are appropriate summary statistics provided?
+- 🔴 Are steps taken during data cleaning and EDA framed appropriately?
 
 **Visualizations**
-- Are the requested visualizations provided?
-- Do plots accurately demonstrate valid relationships?
-- Are plots labeled properly?
-- Plots interpreted appropriately?
-- Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
+- 🔴 Are the requested visualizations provided?
+- 🔴 Do plots accurately demonstrate valid relationships?
+- 🔴 Are plots labeled properly?
+- 🔴 Plots interpreted appropriately?
+- 🔴 Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
 
 **Research and Conceptual Understanding**
-- Were useful insights gathered from outside sources?
-- Are sources clearly identified?
-- Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
+- 🔴 Were useful insights gathered from outside sources?
+- 🔴 Are sources clearly identified?
+- 🔴 Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
 
 **Presentation**
-- Is the problem statement clearly presented?
-- Does a strong narrative run through the presentation building toward a final conclusion?
-- Are the conclusions/recommendations clearly stated?
-- Is the level of technicality appropriate for the intended audience?
-- Is the student substantially over or under time?
-- Does the student appropriately pace their presentation?
-- Does the student deliver their message with clarity and volume?
-- Are appropriate visualizations generated for the intended audience?
-- Are visualizations necessary and useful for supporting conclusions/explaining findings?
+- 🟢 Is the problem statement clearly presented?
+- 🟢 Does a strong narrative run through the presentation building toward a final conclusion?
+- 🟢 Are the conclusions/recommendations clearly stated?
+- 🟢 Is the level of technicality appropriate for the intended audience?
+- 🟢 Is the student substantially over or under time?
+- 🟢 Does the student appropriately pace their presentation?
+- 🟢 Does the student deliver their message with clarity and volume?
+- 🔴 Are appropriate visualizations generated for the intended audience?
+- 🔴 Are visualizations necessary and useful for supporting conclusions/explaining findings?
 
 In order to pass the project, students must earn a minimum score of 1 for each category.
 - Earning below a 1 in one or more of the above categories would result in a failing project.
