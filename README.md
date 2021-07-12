@@ -154,8 +154,8 @@ Your local instructor will evaluate your project (for the most part) using the f
 - 🔴 Do files and directories have well-structured, appropriate, consistent names?
 
 **Clarity of Message**
-- 🔴 Is the problem statement clearly presented?
-- 🔴 Does a strong narrative run through the project?
+- 🟢 Is the problem statement clearly presented?
+- 🟢 Does a strong narrative run through the project?
 - 🔴 Does the student provide appropriate context to connect individual steps back to the overall project?
 - 🔴 Is it clear how the final recommendations were reached?
 - 🔴 Are the conclusions/recommendations clearly stated?
@@ -185,8 +185,8 @@ Your local instructor will evaluate your project (for the most part) using the f
 - 🔴 Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
 
 **Research and Conceptual Understanding**
-- 🔴 Were useful insights gathered from outside sources?
-- 🔴 Are sources clearly identified?
+- 🟢 Were useful insights gathered from outside sources?
+- 🟢 Are sources clearly identified?
 - 🔴 Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
 
 **Presentation**
