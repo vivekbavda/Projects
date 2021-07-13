@@ -147,24 +147,24 @@ Your local instructor will evaluate your project (for the most part) using the f
 - 🔴 Are modules imported correctly (using appropriate aliases)?
 - 🔴 Are data imported/saved using relative paths?
 - 🔴 Does the README provide a good executive summary of the project?
-- 🔴 Is markdown formatting used appropriately to structure notebooks?
-- 🔴 Are there an appropriate amount of comments to support the code?
+- 🟢 Is markdown formatting used appropriately to structure notebooks?
+- 🟢 Are there an appropriate amount of comments to support the code?
 - 🔴 Are files & directories organized correctly?
 - 🔴 Are there unnecessary files included?
 - 🔴 Do files and directories have well-structured, appropriate, consistent names?
 
 **Clarity of Message**
 - 🟢 Is the problem statement clearly presented?
-- 🟢 Does a strong narrative run through the project?
+- 🟡 Does a strong narrative run through the project?
 - 🔴 Does the student provide appropriate context to connect individual steps back to the overall project?
 - 🔴 Is it clear how the final recommendations were reached?
 - 🔴 Are the conclusions/recommendations clearly stated?
 
 **Python Syntax and Control Flow**
 - 🔴 Is care taken to write human readable code?
-- 🔴 Is the code syntactically correct (no runtime errors)?
-- 🔴 Does the code generate desired results (logically correct)?
-- 🔴 Does the code follow general best practices and style guidelines?
+- 🟡 Is the code syntactically correct (no runtime errors)?
+- 🟡 Does the code generate desired results (logically correct)?
+- 🟡 Does the code follow general best practices and style guidelines?
 - 🔴 Are Pandas functions used appropriately?
 - 🔴 Does the student demonstrate mastery masking in Pandas?
 - 🔴 Does the student demonstrate mastery sorting in Pandas?
@@ -190,13 +190,13 @@ Your local instructor will evaluate your project (for the most part) using the f
 - 🔴 Does the student provide appropriate interpretation with regards to descriptive and inferential statistics?
 
 **Presentation**
-- 🟢 Is the problem statement clearly presented?
-- 🟢 Does a strong narrative run through the presentation building toward a final conclusion?
-- 🟢 Are the conclusions/recommendations clearly stated?
-- 🟢 Is the level of technicality appropriate for the intended audience?
-- 🟢 Is the student substantially over or under time?
-- 🟢 Does the student appropriately pace their presentation?
-- 🟢 Does the student deliver their message with clarity and volume?
+- 🟡 Is the problem statement clearly presented?
+- 🟡 Does a strong narrative run through the presentation building toward a final conclusion?
+- 🟡 Are the conclusions/recommendations clearly stated?
+- 🟡 Is the level of technicality appropriate for the intended audience?
+- 🟡 Is the student substantially over or under time?
+- 🟡 Does the student appropriately pace their presentation?
+- 🟡 Does the student deliver their message with clarity and volume?
 - 🔴 Are appropriate visualizations generated for the intended audience?
 - 🔴 Are visualizations necessary and useful for supporting conclusions/explaining findings?
 
