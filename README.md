@@ -40,7 +40,7 @@ We will be looking for the following things:
     - Assume you are presenting to the mayor (i.e., a non-technical audience)
     - You have up to **4 minutes** (absolutely no longer!)
     - You can choose to present on either or both tests
-    - You slides must be in google slides (absolutely no exceptions)
+    - Your slides must be in google slides (absolutely no exceptions)
       - Download as .pdf to upload your slides to your repository
 
 *TIP*: 4 minutes is not long.  Think about what is most important to talk about.  
